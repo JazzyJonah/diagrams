@@ -52,3 +52,4 @@ class Pubsub(_Analytics):
 
 BigQuery = Bigquery
 PubSub = Pubsub
+DataFlow = Dataflow
